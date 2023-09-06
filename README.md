@@ -25,5 +25,14 @@ This README provides a brief overview of the steps required to integrate Ethereu
 - Click the "Send Transaction" button to sign and send the Ethereum transaction.
 - Use Ganache to inspect the transactions:
   - Capture a screenshot of your address balance and history.
+
+![](AddressBalance.png)
+
   - Capture a screenshot of the transaction details.
+
+![](TransactionDetails.png)
+
   - Capture a screenshot of the recipient's address balance and history.
+
+![](RecipientNewBalance.png)
+
